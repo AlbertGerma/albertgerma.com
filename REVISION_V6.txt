@@ -1,0 +1,2 @@
+Cambios: marca visible 'Albert Germà Dietista y Quiromasajista'; nueva página Contacto con teléfono/WhatsApp, dirección y mapa; recorte visual del logo para ocultar las dos líneas horizontales; revisión de la palabra 'nutricionista'.
+Archivos HTML donde aún aparece 'nutricionista': ['index.html']

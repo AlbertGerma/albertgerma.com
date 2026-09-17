@@ -1,0 +1,2 @@
+La V5 contiene el carrusel visual. Las tarjetas 'Próximamente' NO son reseñas reales y se sustituirán por las reseñas obtenidas mediante Google Business Profile API tras la autorización OAuth del propietario.
+Regla de presentación: mostrar únicamente el nombre de pila del autor, sin apellidos ni foto.

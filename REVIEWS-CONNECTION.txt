@@ -1,0 +1,17 @@
+CONEXIÓN DE RESEÑAS DE GOOGLE
+-----------------------------
+La web ya tiene preparado un carrusel horizontal animado.
+
+Para que las reseñas sean LIVE y se actualicen desde Google Business Profile,
+necesitamos conectar un widget externo de Google Reviews. La opción gratuita
+más sencilla es Elfsight (límite actual del plan gratuito: 200 cargas/mes y
+branding de Elfsight) o SociableKIT (hasta 2.000 visualizaciones/mes con
+branding).
+
+PASO NECESARIO:
+1. Abre Google Maps y busca "Albert Germà Dietista y Quiromasajista".
+2. Pulsa Compartir y copia el enlace de Google Maps de tu negocio.
+3. Pásame ese enlace aquí.
+4. Con él podremos obtener/conectar el Place ID y dejar preparado el widget.
+
+No hace falta que me pases contraseñas ni acceso a tu cuenta de Google.
